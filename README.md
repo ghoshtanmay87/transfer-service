@@ -54,7 +54,7 @@ Transfer amount between two accounts using REST API
 ## How to run
 
 * Download pre-requisite
-  * Java 1.8
+  * JDK 1.8
   * Maven
 * Clone repository
   * git clone https://github.com/ghoshtanmay87/transfer-service.git
@@ -84,7 +84,7 @@ Transfer amount between two accounts using REST API
 
 ## Language and Frameworks
 
-* Java 1.8
+* Java 8
 * SpringBoot 2.5.6
 * H2 in-memory DB
 * Maven
