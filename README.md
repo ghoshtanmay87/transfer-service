@@ -68,6 +68,8 @@ Transfer amount between two accounts using REST API
   * java -jar transfer-service-0.0.1-SNAPSHOT.jar
 * By default, the application starts on port 8080. Invoke the API using following endpoint as mentioned in Endpoints section
   ``http://localhost:8080/api/transfer``
+* H2 console is available at following endpoint to check the data
+  ``http://localhost:8080/h2``
 
 ## Note
 
